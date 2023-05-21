@@ -12,7 +12,7 @@
 # Driver Control4 Harmony
 
 [![Version](https://img.shields.io/badge/version-2-green.svg)](https://github.com/CdriFry/C4_HarmonyHub/releases/tag/V2)
-<P>This driver is very early-developpement state, please do not install this version on production site. </p>
+<P>This driver is in very early-developpement state, please do not install this version on production site. </p>
 
 # Installation 
 
