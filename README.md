@@ -8,4 +8,7 @@
 ---
 
 <p align="center">A driver to control harmony activities and linked devices.</p>
-#Driver Control4 Harmony
+
+# Driver Control4 Harmony
+
+[![Version](https://img.shields.io/badge/version-2-green.svg)](https://github.com/CdriFry/)
