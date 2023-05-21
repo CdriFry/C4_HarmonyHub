@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./images/harmony-vector-logo.svg" alt="Harmony" width="200"/>
+  <img src="./images/harmony-logo.png" alt="Harmony" width="200"/>
   <img src="./images/control4-vector-logo.svg" alt="Control4" width="200"/>
+  <img src="./images/soundimage-logo.png" alt "Soundimage" width="200">
 </p>
 
 ---
