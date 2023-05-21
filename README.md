@@ -16,7 +16,7 @@
 
 # Installation 
 
-<p>Go to the drivers tab, do "add or update driver or agent" and add it in composer, then install the "hub" driver, all the procedure to follow is in the documentation tab</p>
+<p>Go to the drivers tab, do "add or update driver or agent" and add it in composer, then install the "Harmony SI" driver, all the procedure to follow is in the documentation tab</p>
 
 # Issues
 
