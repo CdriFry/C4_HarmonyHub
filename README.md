@@ -11,7 +11,7 @@
 
 # Driver Control4 Harmony
 
-[![Version](https://img.shields.io/badge/version-2-green.svg)](https://github.com/CdriFry/C4_HarmonyHub/releases/tag/V3)
+[![Version](https://img.shields.io/badge/version-3-green.svg)](https://github.com/CdriFry/C4_HarmonyHub/releases/tag/V3)
 <P>This driver is now free to use for free for life, due to the discontinuation of the Harmony range by Logitech.</p>
 
 # Installation 
