@@ -11,9 +11,8 @@
 
 # Driver Control4 Harmony
 
-[![Version](https://img.shields.io/badge/version-2-green.svg)](https://github.com/CdriFry/C4_HarmonyHub/releases/tag/V2)
-<P>This driver is in very early-developpement state, please do not install this version on production site. </p>
-<p>The production of the harmony hub by logitech has been stopped, if my driver can be useful to you to reuse a hub to control a room with the harmony hub, contact me, I will give you a free activation key.</p>
+[![Version](https://img.shields.io/badge/version-2-green.svg)](https://github.com/CdriFry/C4_HarmonyHub/releases/tag/V3)
+<P>This driver is now free to use for free for life, due to the discontinuation of the Harmony range by Logitech.</p>
 
 # Installation 
 
@@ -21,4 +20,4 @@
 
 # Issues
 
-<p>Please, if you encounter a problem, a bug, contact me by opening an issue ticket or on discord: CaptainCalvie#3598</p>
+<p>Please, if you encounter a problem, a bug, contact me by opening an issue ticket or on discord: captaincalvie</p>
